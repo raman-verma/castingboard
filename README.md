@@ -1,6 +1,6 @@
 # Casting Board APP [Flutter]
 
-An App which resolves all your problem related to carrying seperate Tab or Drawing tablet for Note taking/presentation purpose.
+An App which resolves all your problem related to carrying separate Tab or Drawing tablet for Note taking/presentation purpose.
 
 ## Important resources
 
